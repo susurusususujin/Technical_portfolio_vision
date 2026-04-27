@@ -1,4 +1,3 @@
-# train_quality_cv.py
 # ============================================================
 # Intelligent Pest Image Quality Classification (OK vs ERROR)
 #  - Stratified 5-Fold CV
